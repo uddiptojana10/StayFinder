@@ -45,7 +45,7 @@ For **StayFinder**, we chose a modern and scalable tech stack that supports **ra
 - **dotenv**  
   For secure environment variable management.
 
-- **Razorpay** *(optional)*  
+- **Razorpay** 
   To simulate or integrate payment flows for bookings.
 
 - **date-fns + react-day-picker**  
